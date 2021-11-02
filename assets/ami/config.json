@@ -1,0 +1,7 @@
+{
+    "ami": {
+        "2018": {
+            "datasetClass": "DatasetAMI"
+        }
+    }
+}

@@ -1,0 +1,8 @@
+**/*
+!.gitignore
+!config.json
+!*.py
+!*/
+
+**/models/**/config.json
+**/bert-finetunning*/config.json

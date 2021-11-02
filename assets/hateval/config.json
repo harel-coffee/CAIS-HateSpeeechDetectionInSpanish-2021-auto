@@ -1,0 +1,7 @@
+{    
+    "hateval": {
+        "spain-2019": {"datasetClass": "DatasetHatEval", "hateval_lang_prefix": "es"},
+        "spain-2019-mig": {"datasetClass": "DatasetHatEval", "hateval_lang_prefix": "es", "target": "mig"},
+        "spain-2019-mis": {"datasetClass": "DatasetHatEval", "hateval_lang_prefix": "es", "target": "mis"}
+    }
+}
